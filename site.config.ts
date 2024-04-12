@@ -1,7 +1,7 @@
 import { defineSiteConfig } from 'valaxy'
 
 export default defineSiteConfig({
-  url: 'https://shinya754.github.io/',
+  url: 'https://shinya754.github.io/re-blog/',
   lang: 'zh-CN',
   title: '夤夜的世界旅行手记',
   author: {
