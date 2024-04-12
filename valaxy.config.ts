@@ -71,14 +71,14 @@ export default defineValaxyConfig<UserThemeConfig>({
     /**
      * @en Image opacity不透明度
      */
-      opacity: 0.9
+      opacity: 0.7,
     },
 
     footer: {
       since: 2024,
       beian: {
         enable: false,
-        icp: '苏ICP备17038157号',
+        icp: 'none',
       },
     },
   },
