@@ -51,6 +51,28 @@ export default defineValaxyConfig<UserThemeConfig>({
 	 */
 	  colors: ['#66CCFF', '#9999FF', '#FFFF00'],
     },
+	/**
+   * @en Background image
+   * @zh 背景图
+   */
+    bg_image: {
+    /**
+     * @en Enable background image
+     */
+      enable: true,
+    /**
+     * @en Image url
+     */
+      url: "https://s11.ax1x.com/2022/07/21/jqsay8.png",
+    /**
+     * @en Image url when dark mode
+     */
+      //dark?: string
+    /**
+     * @en Image opacity不透明度
+     */
+      opacity: 0.9
+    },
 
     footer: {
       since: 2024,
