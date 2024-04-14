@@ -12,15 +12,17 @@ const safelist = [
   'i-ri-mail-line',
 ]
 
-vite:{
-	base: "/re-blog/"
-}
 
 /**
  * User Config
  */
 export default defineValaxyConfig<UserThemeConfig>({
   // site config see site.config.ts
+
+  
+  vite:{
+  	base: "/re-blog/",
+  },
 
   theme: 'yun',
 
