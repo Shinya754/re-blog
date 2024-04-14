@@ -12,6 +12,10 @@ const safelist = [
   'i-ri-mail-line',
 ]
 
+vite:{
+	base: "/re-blog/"
+}
+
 /**
  * User Config
  */
