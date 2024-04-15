@@ -6,6 +6,7 @@ export default defineSiteConfig({
   title: '夤夜的世界旅行手记',
   author: {
     name: '千绫',
+	avatar: 'https://s21.ax1x.com/2024/04/15/pFv49hD.jpg',
   },
     /**
    * 站点图标
@@ -69,8 +70,12 @@ export default defineSiteConfig({
 
   sponsor: {
     enable: true,
-    title: '希望我提供的帮助能够补偿你在这里花费的时间。',
+    title: "希望我提供的帮助能够补偿你在这里花费的时间。",
     methods: [
+	  {
+	    name: '无',
+		url: "https://s21.ax1x.com/2024/04/15/pFv51PO.jpg",
+	  },
     ],
   },
 })
