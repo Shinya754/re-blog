@@ -28,6 +28,7 @@ declare module 'vue-router/auto-routes' {
     '/links/': RouteRecordInfo<'/links/', '/links', Record<never, never>, Record<never, never>>,
     '/page/[page]': RouteRecordInfo<'/page/[page]', '/page/:page', { page: ParamValue<true> }, { page: ParamValue<false> }>,
     '/posts/2024-04-15-博客重启': RouteRecordInfo<'/posts/2024-04-15-博客重启', '/posts/2024-04-15-博客重启', Record<never, never>, Record<never, never>>,
+    '/posts/2024-04-16-并查集，以及力扣924. 尽量减少恶意软件的传播': RouteRecordInfo<'/posts/2024-04-16-并查集，以及力扣924. 尽量减少恶意软件的传播', '/posts/2024-04-16-并查集，以及力扣924/ 尽量减少恶意软件的传播', Record<never, never>, Record<never, never>>,
     '/tags/': RouteRecordInfo<'/tags/', '/tags', Record<never, never>, Record<never, never>>,
   }
 }
