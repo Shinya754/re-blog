@@ -1,0 +1,65 @@
+---
+layout: post
+title: re:英 汉 词 典
+date: 2024-04-29 21:49:00
+excerpt_type: html  # <!-- more -->标签渲染方式
+updated: 2024-04-29
+categories: 英汉词典
+tags:
+  - 英语
+---
+
+你可少用点拼音吧.jpg
+
+# 词汇
+
+递归：recursion(n.)，recursive(adj.)，[rɪˈkɜːrsɪv]
+遍历：traverse(v.)，[ˈtrævɜːrs; trəˈvɜːrs]
+
+<!-- more -->
+
+先序：Pre-Order
+中序：In-Order
+后序：Post-Order
+
+洗牌：shuffle(v.)，`[ˈʃʌfl]`。此外，shuffle作为动词时还有拖着脚走、坐立不安、搪塞等意思；作为名词时还有拖着脚走、随机播放装置等意思。
+
+容量：capacity(n.)，`[kəˈpæsəti]`。还有 能力、地位、生产力 的意思。
+
+部分的：fractional(adj.)，`[ˈfrækʃənl]`。特指微小的部分。还有 很小的、很少的 的意思。
+背包：knapsack(n.)，`[ˈnæpsæk]`。
+部分背包问题：fractional knapsack problem
+
+调度：schedule(v.)，`[ˈskedʒuːl]`。此外，schedule作为动词时还有 安排、拉清单 的意思；作为名词时还有 计划（表）、时间表、附件（尤指表格、单据等）
+
+邻接：adjacency(n.)，`[əˈdʒeɪsənsi]`（d不发音）。特指计算机领域的邻接。
+邻接矩阵：adjacency matrix
+
+嵌套：nested(adj.)。此外，如果将其视为nest的过去式，则有 筑巢，巢居 的意思。
+
+注释：annotate(v.)，注释;给…作注解(或评注)。它的名词形式是annotation。
+
+utility：实用，实用程序，效用(n.)；多用途的，多功能的(adj.)
+
+fragile：脆弱的（特指经济、生态环境等）、易碎的(adj.)
+
+attribute `[əˈtrɪbjuːt]`：属性，特质（n.）；把…归因于（vt.）（attribute…to）
+
+“因为、由于”的几种表达
+>1.because of&emsp;较多情况下用于表示导致坏结果的原因，接名词
+2.due to&emsp;用于表示导致坏结果的原因，可翻译为“归咎于”
+3.on account of&emsp;非常客观地表示原因，适用于任何情况
+4.thanks to&emsp;用于表示导致好结果的原因，可翻译为“多亏了”
+
+“归因于”的几种表达
+>1.attribute to&emsp;把某事归因于某人（某事），认为某作品出自某人之手，认为某事（物）属于某人（物）。
+2.owe to&emsp;应该感谢某人，把…归功于
+
+dispatch：派遣，调度，转发，迅速处理，杀死（v.）；派遣，急件，（外地的记者发给报纸的）报道（n.）
+dispatcher：调度员，转发器（调度程序），分配器（n.）
+
+deprecate `[ˈdeprəkeɪt]`：反对，轻视，声明不赞成（v.）
+deprecated：不赞成（被使用的方法或者数据结构，如Java中的Stack）
+
+diagonal：对角线、斜线（n.）；对角线的，斜线的（adj.）
+a diagonal line：一条斜的线
