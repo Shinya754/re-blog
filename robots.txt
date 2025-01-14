@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shinya754.github.io/re-blog/sitemap.xml

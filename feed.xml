@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>夤夜的世界旅行手记</title>
+        <link>https://shinya754.github.io/re-blog/</link>
+        <description>Welcome.</description>
+        <lastBuildDate>Tue, 14 Jan 2025 08:02:44 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>夤夜的世界旅行手记</title>
+            <url>https://s21.ax1x.com/2024/04/15/pFv49hD.jpg</url>
+            <link>https://shinya754.github.io/re-blog/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2025 © 千绫</copyright>
+        <atom:link href="https://shinya754.github.io/re-blog/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[单调栈变体-删除重复字符使得字典序最小]]></title>
+            <link>https://shinya754.github.io/re-blog/posts/2024-07-11-单调栈变体-删除重复字符使得字典序最小</link>
+            <guid>https://shinya754.github.io/re-blog/posts/2024-07-11-单调栈变体-删除重复字符使得字典序最小</guid>
+            <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>316.去除重复字母</h2>
+<p><a href="https://leetcode.cn/problems/remove-duplicate-letters/description/?envType=study-plan-v2&amp;envId=2024-spring-sprint-100">316.去除重复字母</a></p>
+<p>除你字母。</p>
+]]></content:encoded>
+            <author>i@valaxy.site (千绫)</author>
+        </item>
+        <item>
+            <title><![CDATA[曼哈顿距离和切比雪夫距离]]></title>
+            <link>https://shinya754.github.io/re-blog/posts/2024-07-09-曼哈顿距离和切比雪夫距离</link>
+            <guid>https://shinya754.github.io/re-blog/posts/2024-07-09-曼哈顿距离和切比雪夫距离</guid>
+            <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>曼哈顿距离</h2>
+<blockquote>
+<p>在二维空间内，两个点之间的曼哈顿距离（Manhattan distance）为它们横坐标之差的绝对值与纵坐标之差的绝对值之和。</p>
+</blockquote>
+<p>设两个点的坐标为 $A(x_1, y_1)$，$B(x_2, y_2)$，则两者的曼哈顿距离为：</p>
+<p>$$<br>
+d(A, B)=|x_1-x_2|+|y_1-y_2|<br>
+$$</p>
+]]></content:encoded>
+            <author>i@valaxy.site (千绫)</author>
+        </item>
+        <item>
+            <title><![CDATA[力扣2813.子序列最大优雅度]]></title>
+            <link>https://shinya754.github.io/re-blog/posts/2024-06-13-力扣2813.子序列最大优雅度</link>
+            <guid>https://shinya754.github.io/re-blog/posts/2024-06-13-力扣2813.子序列最大优雅度</guid>
+            <pubDate>Thu, 13 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>力扣2813.子序列最大优雅度</h2>
+<p><a href="https://leetcode.cn/problems/maximum-elegance-of-a-k-length-subsequence/solutions/2807350/zi-xu-lie-zui-da-you-ya-du-by-leetcode-s-mw6g/?envType=daily-question&amp;envId=2024-06-13">2813.子序列最大优雅度</a></p>
+<p>有一点思路，但不多。</p>
+]]></content:encoded>
+            <author>i@valaxy.site (千绫)</author>
+        </item>
+        <item>
+            <title><![CDATA[力扣3067.在带权树网络中统计可连接服务器对数目]]></title>
+            <link>https://shinya754.github.io/re-blog/posts/2024-06-04-力扣3067.在带权树网络中统计可连接服务器对数目</link>
+            <guid>https://shinya754.github.io/re-blog/posts/2024-06-04-力扣3067.在带权树网络中统计可连接服务器对数目</guid>
+            <pubDate>Tue, 04 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>力扣3067.在带权树网络中统计可连接服务器对数目</h2>
+<p><a href="https://leetcode.cn/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network/description/?envType=daily-question&amp;envId=2024-06-04">3067.在带权树网络中统计可连接服务器对数目</a></p>
+<p>图算法实在是学得太烂了，故记录一个好题</p>
+]]></content:encoded>
+            <author>i@valaxy.site (千绫)</author>
+        </item>
+        <item>
+            <title><![CDATA[力扣1542.找出最长的超赞字符串]]></title>
+            <link>https://shinya754.github.io/re-blog/posts/2024-05-20-力扣1542.找出最长的超赞字符串</link>
+            <guid>https://shinya754.github.io/re-blog/posts/2024-05-20-力扣1542.找出最长的超赞字符串</guid>
+            <pubDate>Mon, 20 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>力扣1542.找出最长的超赞字符串</h2>
+<p><a href="https://leetcode.cn/problems/find-longest-awesome-substring/description/?envType=daily-question&amp;envId=2024-05-20">1542.找出最长的超赞字符串</a></p>
+<p>找=抓，超赞=绝赞，所以这也是一种抓绝赞（</p>
+]]></content:encoded>
+            <author>i@valaxy.site (千绫)</author>
+        </item>
+        <item>
+            <title><![CDATA[力扣402.移掉K位数字]]></title>
+            <link>https://shinya754.github.io/re-blog/posts/2024-05-18-力扣402.移掉K位数字</link>
+            <guid>https://shinya754.github.io/re-blog/posts/2024-05-18-力扣402.移掉K位数字</guid>
+            <pubDate>Sat, 18 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>力扣402.移掉K位数字</h2>
+<p><a href="https://leetcode.cn/problems/remove-k-digits/description/?envType=study-plan-v2&amp;envId=2024-spring-sprint-100">402.移掉K位数字</a></p>
+<p>看到题目的第一想法：维护下标<code>p</code>，每次在从<code>p</code>开始的<code>k+1</code>个数字中选取一个最小且比较靠前的数字，以此代替删除数字的操作。编码如下：</p>
+]]></content:encoded>
+            <author>i@valaxy.site (千绫)</author>
+        </item>
+        <item>
+            <title><![CDATA[re:英 汉 词 典]]></title>
+            <link>https://shinya754.github.io/re-blog/posts/2024-04-29-re-英汉词典</link>
+            <guid>https://shinya754.github.io/re-blog/posts/2024-04-29-re-英汉词典</guid>
+            <pubDate>Thu, 16 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>你可少用点拼音吧.jpg</p>
+<h1>词汇</h1>
+<p>递归：recursion(n.)，recursive(adj.)，<code>[rɪˈkɜːrsɪv]</code></p>
+<p>遍历：traverse(v.)，<code>[ˈtrævɜːrs; trəˈvɜːrs]</code></p>
+]]></content:encoded>
+            <author>i@valaxy.site (千绫)</author>
+        </item>
+        <item>
+            <title><![CDATA[力扣2589.完成所有任务的最少时间]]></title>
+            <link>https://shinya754.github.io/re-blog/posts/2024-05-16-力扣2589.完成所有任务的最少时间</link>
+            <guid>https://shinya754.github.io/re-blog/posts/2024-05-16-力扣2589.完成所有任务的最少时间</guid>
+            <pubDate>Thu, 16 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>力扣2589.完成所有任务的最少时间</h2>
+<p><a href="https://leetcode.cn/problems/minimum-time-to-complete-all-tasks/description/?envType=daily-question&amp;envId=2024-05-15">2589.完成所有任务的最少时间</a></p>
+<p>毫无头猪的困难题</p>
+]]></content:encoded>
+            <author>i@valaxy.site (千绫)</author>
+        </item>
+        <item>
+            <title><![CDATA[力扣1553.吃掉N个橘子的最少天数]]></title>
+            <link>https://shinya754.github.io/re-blog/posts/2024-05-13-力扣1553.吃掉N个橘子的最少天数</link>
+            <guid>https://shinya754.github.io/re-blog/posts/2024-05-13-力扣1553.吃掉N个橘子的最少天数</guid>
+            <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>力扣1553.吃掉N个橘子的最少天数</h2>
+<p><a href="https://leetcode.cn/problems/minimum-number-of-days-to-eat-n-oranges/?envType=daily-question&amp;envId=2024-05-12">1553.吃掉N个橘子的最少天数</a></p>
+<p>一眼dp，随手写了一个提交，爆内存，然后发现数据范围是<code>1 &lt;= n &lt;= 2*10^9</code>。</p>
+]]></content:encoded>
+            <author>i@valaxy.site (千绫)</author>
+        </item>
+        <item>
+            <title><![CDATA[遍历组合方式，以及力扣77.组合]]></title>
+            <link>https://shinya754.github.io/re-blog/posts/2024-05-05-遍历组合方式</link>
+            <guid>https://shinya754.github.io/re-blog/posts/2024-05-05-遍历组合方式</guid>
+            <pubDate>Sun, 05 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>力扣77.组合</h2>
+<p><a href="https://leetcode.cn/problems/combinations/description/">77.组合</a></p>
+<p>题目要求遍历从<code>1</code>到<code>n</code>的所有<code>k</code>个数组合，将这个遍历结果作为下标即可推广到任意集合的<code>k</code>个子元素组合。</p>
+<p>官方题解中提供了两种方法：递归（深度优先搜索/回溯）和字典序遍历</p>
+]]></content:encoded>
+            <author>i@valaxy.site (千绫)</author>
+        </item>
+        <item>
+            <title><![CDATA[力扣1883.准时抵达会议现场的最小跳过休息次数]]></title>
+            <link>https://shinya754.github.io/re-blog/posts/2024-04-19-力扣1883.准时抵达会议现场的最小跳过休息次数</link>
+            <guid>https://shinya754.github.io/re-blog/posts/2024-04-19-力扣1883.准时抵达会议现场的最小跳过休息次数</guid>
+            <pubDate>Fri, 19 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>力扣1883.准时抵达会议现场的最小跳过休息次数</h2>
+<p><a href="https://leetcode.cn/problems/minimum-skips-to-arrive-at-meeting-on-time/description/?envType=daily-question&amp;envId=2024-04-19">2024-04-19每日一题</a></p>
+<p>事实证明每当我看到题目第一反应是贪心的时候，题目就往往需要使用dp来解决。</p>
+<p>虽然想到了使用dp，但是这个状态转移方程我实在是想不到。</p>
+<p>在这一题的设计中，<code>dp[i][j]</code>代表从原点0到走过<code>i</code>段路程时，跳过<code>j</code>次休息，所需要的最少时间。所求的跳过次数作为dp数组的一个维度存在。而之前那个卖木头块所求的是最大金额。如果这一题所求的是最短时间，则从数组内容中取得答案。</p>
+]]></content:encoded>
+            <author>i@valaxy.site (千绫)</author>
+        </item>
+        <item>
+            <title><![CDATA[并查集，以及力扣924. 尽量减少恶意软件的传播]]></title>
+            <link>https://shinya754.github.io/re-blog/posts/2024-04-16-并查集，以及力扣924. 尽量减少恶意软件的传播</link>
+            <guid>https://shinya754.github.io/re-blog/posts/2024-04-16-并查集，以及力扣924. 尽量减少恶意软件的传播</guid>
+            <pubDate>Tue, 16 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>并查集</h2>
+<p>并查集的三个主要操作：<strong>初始化</strong>、<strong>查找</strong>、<strong>合并</strong></p>
+]]></content:encoded>
+            <author>i@valaxy.site (千绫)</author>
+        </item>
+        <item>
+            <title><![CDATA[博客重启]]></title>
+            <link>https://shinya754.github.io/re-blog/posts/2024-04-15-博客重启</link>
+            <guid>https://shinya754.github.io/re-blog/posts/2024-04-15-博客重启</guid>
+            <pubDate>Mon, 15 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>博客重启</h1>
+<h2>固态硬盘0E事件记录</h2>
+<p>什么，这不是传说中口碑最好的三星吗（笑</p>
+]]></content:encoded>
+            <author>i@valaxy.site (千绫)</author>
+        </item>
+    </channel>
+</rss>
